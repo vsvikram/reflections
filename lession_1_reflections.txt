@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By Comparing the two versions of a file, using the CF or diff commands 
+    it is pretty easy to find the bug once you see the fractions of code
+    that generates discrepencies in the two versions of a file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having access to the entire history of a file we can easily compare,
+    replace and reuse codes of the previously saved versions of file at any 
+    time without having to go through each files manually.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    By manually choosing commits there is less chances of irrelevent commits or
+    access commits which can be in automatic commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some version control systems, like Git, are designed for controlling versions of 
+    files used in programming where interdependence of different files on each other
+    can't be avoided.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By using git log command one can view the list of commits that are done 
+    on particular repository.Similarly git diff allows users to compare the
+    two commits on same file or multiple files and helps in easy debugging.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since there is history stored for all your repositories i can very easily
+    experiment on my code and if anything goes wrong i can always revert the 
+    changes done by most recent commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use git for my all projects that needs experimentation or complex 
+    enough to be messed up!
