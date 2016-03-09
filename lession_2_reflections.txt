@@ -23,6 +23,9 @@ Branches helps in keeping history organised by allowing to use different project
 execution paths varying on logical changes for the same project.
 
 How do the diagrams help you visualize the branch structure?
+ 
+Diagram helps in visualizing branch structure and helps determine reachability
+of a particular commit.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
