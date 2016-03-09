@@ -1,10 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+when we initialise a repo it becomes a repository from a working directory
+and now all git commands can run on this repository.
+ 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area is intermediate state between working directory and repository
+it contains all the files which are changed and ready to be committed.Commit 
+command operates on staging area only.
+ 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+we can compare files in the staging area with files in working directory using
+git diff and same can be done with repository with git diff --staged.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
