@@ -19,6 +19,9 @@ git diff and same can be done with repository with git diff --staged.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches helps in keeping history organised by allowing to use different project
+execution paths varying on logical changes for the same project.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
